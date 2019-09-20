@@ -1,1 +1,5 @@
-# Morgan_E_Hodges_K_Garcia_T_HW1
+# My Team Awesome Bio Page
+
+## Learn all about our awesome team 
+
+Making a three person bio page website.
